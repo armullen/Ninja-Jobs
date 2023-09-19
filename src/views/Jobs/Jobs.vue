@@ -13,9 +13,9 @@ export default {
     data() {
         return {
             jobs: [
-                {title: 'Ninja UX Designer', id: 1, details: 'Lorem'},
-                {title: 'Ninja Frontend Dev', id: 2, details: 'Lorem'},
-                {title: 'Ninja DevOps', id: 3, details: 'Lorem'},
+                {title: 'UX Designer', id: 1, details: 'Lorem'},
+                {title: 'Frontend Dev', id: 2, details: 'Lorem'},
+                {title: 'DevOps', id: 3, details: 'Lorem'},
             ]
         }
     }
