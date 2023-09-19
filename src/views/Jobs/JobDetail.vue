@@ -1,6 +1,6 @@
 <template>
     <h1>Job Detail page</h1>
-    <p>The job id is {{  id }}</p>
+    <p>The job id is {{ id }}</p>
 </template>
 
 <script>
